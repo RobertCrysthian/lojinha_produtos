@@ -1,0 +1,31 @@
+.section_login {
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh;
+}
+
+.section_login h1 {
+    font-size: 40px;
+    margin-bottom: 3%;
+}
+
+.section_login div{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.section_login input{
+    width: 50%;
+}
+
+.section_login button {
+    width: 50%;
+}
+
+.section_login div button {
+    margin-top: 1%;
+}

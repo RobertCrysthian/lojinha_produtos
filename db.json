@@ -1,0 +1,77 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "productName": "Banana",
+      "productPrice": 10.5,
+      "productQTD": 10
+    },
+    {
+      "id": 2,
+      "productName": "Abacate",
+      "productPrice": 20,
+      "productQTD": 5
+    },
+    {
+      "productName": "Uvaa",
+      "productPrice": 16,
+      "productQTD": 10,
+      "id": 3
+    },
+    {
+      "id": 4,
+      "productName": "Pão",
+      "productPrice": 10,
+      "productQTD": 12
+    },
+    {
+      "id": 5,
+      "productName": "Alface",
+      "productPrice": 16,
+      "productQTD": 16
+    },
+    {
+      "id": 6,
+      "productName": "Requeijão",
+      "productPrice": 15,
+      "productQTD": 20
+    },
+    {
+      "id": 8,
+      "productName": "Banana",
+      "productPrice": 10,
+      "productQTD": 10
+    },
+    {
+      "id": 9,
+      "productName": "Abacate",
+      "productPrice": 20,
+      "productQTD": 5
+    },
+    {
+      "id": 11,
+      "productName": "Alface",
+      "productPrice": 16,
+      "productQTD": 16
+    },
+    {
+      "id": 12,
+      "productName": "Minecraft",
+      "productPrice": 17,
+      "productQTD": 7
+    },
+    {
+      "productName": "Batatinha",
+      "productPrice": 100,
+      "productQTD": 900,
+      "id": 14
+    },
+    {
+      "productName": "Abacate",
+      "productPrice": 20,
+      "productQTD": 19,
+      "id": 15
+    }
+  ],
+  "cart": []
+}

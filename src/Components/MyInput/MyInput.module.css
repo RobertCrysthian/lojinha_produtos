@@ -1,0 +1,9 @@
+
+.my_input {
+    outline: none;
+    height: 30px;
+    font-size: 20px;
+    border-radius: 8px;
+    border:1px solid rgb(0, 187, 0);
+    padding-left: 1%;
+}

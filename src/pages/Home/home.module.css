@@ -1,0 +1,40 @@
+.section_home{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 60px;
+}
+
+.title{
+    font-size: 30px;
+    margin: 1.5%;
+}
+
+.div_products{
+    width: 65%;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.page_navigation {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    position:fixed; 
+    bottom:3px;
+    
+
+}
+.page_navigation h1 {
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
+.page_navigation button {
+    width: 80px;
+    height: 30px;
+}

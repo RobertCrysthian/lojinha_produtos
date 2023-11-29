@@ -1,0 +1,58 @@
+.card_div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(48, 48, 48);
+    width: 20%;
+    height: 35vh;
+    margin: 10px;
+    border-radius: 5px;
+    color: black;
+}
+
+.card_div img {
+    width: 50%;
+}
+.card_div button {
+    width: 90%;
+}
+.div_img{
+    display: flex;
+    justify-content: center;
+}
+
+.icons {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.icon {
+    color: aliceblue;
+    width: 30px;
+    height: 30px;
+    padding: 4%;
+    cursor: pointer;
+} 
+
+.icon_active {
+    width: 30px;
+    height: 30px;
+    color: rgb(40, 192, 17);
+    padding: 4%;
+    cursor: pointer;
+}
+
+.text_cart_icon {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+.text_cart_icon p {
+    font-size: 10px;
+    width: 100%;
+}
+
+
